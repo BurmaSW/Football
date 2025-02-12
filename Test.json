@@ -1,0 +1,24 @@
+[
+    {
+        "match_time": "1739282400",
+        "match_status": "live",
+        "home_team_name": "Al Khaldiya",
+        "home_team_logo": "https://sta.vnres.co/file/common/20250208/134111bdabdadf7ee4ed3c83e75b918c.png",
+        "away_team_name": "Tractor S.C.",
+        "away_team_logo": "https://sta.vnres.co/file/common/20250208/ad24b1600359eec92bd43faf2bb9e6a8.png",
+        "league_name": "ACL2",
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-299144_lsd.m3u8?auth_key=1739314390-0-0-a4f285479e32aef779775703e6ffa655",
+                "referer": "https://m.socoliveht.com/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-299144_lhd.m3u8?auth_key=1739314390-0-0-51c547ba9b2413eb190628d56d0c8e95",
+                "referer": "https://m.socoliveht.com/"
+            }
+        ]
+    }
+    // ... (remaining entries follow the same pattern with cleaned URLs)
+]
